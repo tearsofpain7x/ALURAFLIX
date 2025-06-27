@@ -7,7 +7,7 @@ body {
 
 header {
   font-size: 60px;
-  border-bottom: double 5px rgb purple;
+  border-color: blueviolet;
   padding: 6px;
   text-align: center;
 }
